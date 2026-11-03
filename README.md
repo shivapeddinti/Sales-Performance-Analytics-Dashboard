@@ -1,5 +1,4 @@
-# CodeNova Task 3 – Interactive Analytics Dashboard
-
+#  Task 3 –📊 Sales Performance Analytics Dashboard
 ## Files
 - `app.py` – Streamlit dashboard application
 - `requirements.txt` – Python packages
