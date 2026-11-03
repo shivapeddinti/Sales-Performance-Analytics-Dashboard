@@ -4,7 +4,7 @@
 - `requirements.txt` – Python packages
 
 ## Dataset
-Use the Task 1 dataset: `Copy of codenova_sales_sample.csv`.
+Use the Task 1 dataset: `_sales_saCopy of codenovample.csv`.
 
 The dashboard expects these columns:
 `Order_ID, Order_Date, Product, Category, Region, Sales_Channel, Customer_Type, Quantity, Unit_Price_INR, Unit_Cost_INR, Discount_Percent, Payment_Method`
