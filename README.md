@@ -34,9 +34,12 @@ python -m streamlit run app.py
 
 The dashboard supports date, category, region, product, sales channel, and customer type filters.
 ## Outputs
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/acede314-3475-4b2f-9366-8f66a341e4ef" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9a9515c2-574c-45f3-ad6a-4e3b6a7ed779" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5b530fe1-dc4e-4590-b304-3899d75c4e4e" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7a76bbf2-3fca-40eb-890e-80c1e9d9131c" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/88c95cac-01ee-4e5f-aff4-fb3f04e0c414" />
+![Uploading image.png…]()
+
+
+
 
 
 
