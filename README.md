@@ -33,3 +33,10 @@ python -m streamlit run app.py
 - Profit = Net Sales − Total Cost
 
 The dashboard supports date, category, region, product, sales channel, and customer type filters.
+## Outputs
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/acede314-3475-4b2f-9366-8f66a341e4ef" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9a9515c2-574c-45f3-ad6a-4e3b6a7ed779" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5b530fe1-dc4e-4590-b304-3899d75c4e4e" />
+
+
+
