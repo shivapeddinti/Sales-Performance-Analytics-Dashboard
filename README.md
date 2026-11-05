@@ -36,7 +36,8 @@ The dashboard supports date, category, region, product, sales channel, and custo
 ## Outputs
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7a76bbf2-3fca-40eb-890e-80c1e9d9131c" />
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/88c95cac-01ee-4e5f-aff4-fb3f04e0c414" />
-![Uploading image.png…]()
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/dca6cf70-5078-4d65-985f-3529328a246e" />
+
 
 
 
